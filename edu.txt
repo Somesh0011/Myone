@@ -1,0 +1,7 @@
+class JAVA
+{
+    public void m1?()
+    {
+        ///code
+    }
+}
